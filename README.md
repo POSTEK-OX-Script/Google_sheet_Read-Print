@@ -28,7 +28,7 @@ The code requires two additional files to execute, a file called sound-service(u
 
 Both files are provided in this repository. Please note the command file is provided for 300 dpi machines, You can easily generate your own design using a label editing software like Bartender, and the sound service file is provided as a dummy file without real data inside it(as it is sensitive information specific to your google account). Be sure to change the sound service file to the one corresponding to your account when using this code
 
-To execute this demo, simply load the .py file, sound-service-xxxxxxxxx.json(Source for the Google authentication) and command4-en.txt(file for the label design) into your printer through the POSTEK App. Then to run the program you can initiate it from the printer touch screen or the POSTEK App. 
+To execute this demo, simply load the .py file, sound-service-xxxxxxxxx.json(Source for the Google authentication), and rfid.prn(the command file for the label design) into your printer through the POSTEK App. Then to run the program you can initiate it from the printer touch screen or the POSTEK App. 
 
 - Initiating the program from the printer touchscreen
     - On your printer's touch screen, go to settings>Ox Script>[your file name].py. Press it and select run from the bottom right of the pop-up window
