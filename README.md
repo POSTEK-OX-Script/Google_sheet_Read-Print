@@ -8,6 +8,12 @@ A demonstration of what this script can do can be found here
 
 https://youtu.be/FFZGU_X2ulE?si=Mpna_DV3tUFYh9fz
 
+## Tutorial video
+
+A tutorial on developing this script can be found here
+
+https://youtu.be/apklOWnz-BQ
+
 ## Installation
 
 To run this code, you will need to have Python 3.8+ installed on your printer(which comes standard on all POSTEK Printers that support OX Script after May 2023). You will be able to execute this code directly on your computer but the behavior is probably going to be different from behaviors on the printer as it is intended to be executed on the printer
